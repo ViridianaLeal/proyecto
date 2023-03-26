@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(14, 0, 36);
+    background: linear-gradient(100deg, red, orange, yellow, green, blue, indigo, violet);
+    background-image: url(/img/beatles);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+
+}
+
+h1 {
+    padding: 50px;
+    font-size: 50px;
+    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(103deg, rgba(0, 0, 0, 1) 48%, rgba(113, 113, 113, 1) 71%, rgba(103, 103, 103, 1) 87%, rgba(255, 255, 255, 1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+
+    font-family: 'Anton', sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+
+p {
+
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+    position: absolute;
+    top: 200px;
+
+    left: 500px;
+
+    right: 200px;
+}
+
+h3 {
+    padding: 50px;
+    font-size: 30px;
+    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(103deg, rgba(0, 0, 0, 1) 48%, rgba(113, 113, 113, 1) 71%, rgba(103, 103, 103, 1) 87%, rgba(255, 255, 255, 1) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+
+    font-family: 'Anton', sans-serif;
+    position: absolute;
+    top: 750px;
+    left: 650px;
+}
+
+#p2 {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+    position: absolute;
+    left: 500px;
+    top: 900px;
+    right: 200px;
+
+}
+
+video {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 1500px;
+    left: 550px;
+}
+
+table {
+
+    border: 50px;
+
+    border-right-color: azure;
+
+
+}
+
+img {
+    width: 130px;
+    height: 200px;
+}
+
+td {
+    background-color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+}
+
+div {
+    position: relative;
+    top: 200px;
+    right: 490px;
+}
+
+#miembros {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
